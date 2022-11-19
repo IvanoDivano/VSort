@@ -1,3 +1,3 @@
 # VSort
 
-###Visual rappresentation of bubble sort, using RayLib
+### Visual rappresentation of bubble sort, using RayLib
